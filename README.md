@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, Je suis Paul</h1>
-<h3 align="center">Développeuse front-end et passionnée d'UX/UI design et d'accessibilité numérique.</h3>
+<h3 align="center">Développeur back-end et sysadmin.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulandrieux" alt="paulandrieux" /></a> </p> -->
 
